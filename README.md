@@ -1,4 +1,4 @@
-### Olá! Me chamo Luam Ahrion 👋
+### Oi! Eu sou o Luam 👋
 
 <div align="center">
   <a href="https://github.com/ahrionn">
