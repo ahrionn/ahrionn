@@ -7,8 +7,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
@@ -26,7 +27,7 @@
  
 </div>
 
-- 🔭 Atualmente sou estudante do 2o semestre de Análise e Desenvolvimento de Sistemas pelo SENAC-RS
-- 🌱 Aprendendo algumas linguagens como HTML, CSS, Python e JavaScript
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Participei da primeira turma da Warren Tech Academy (https://warren.com.br/magazine/warren-tech-academy/)
+- 🔭 Atualmente sou estudante do 2o semestre de Análise e Desenvolvimento de Sistemas pelo SENAC-RS.
+- 🌱 Aprendendo algumas linguagens como JavaScript, Python, HTML e CSS.
+- 😄 Pronouns: ele/dele.
+- ⚡ Fun fact: Participei da primeira turma da Warren Tech Academy (https://warren.com.br/magazine/warren-tech-academy/).
