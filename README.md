@@ -28,6 +28,6 @@
 </div>
 
 - 🔭 Atualmente sou estudante do 3o semestre de Análise e Desenvolvimento de Sistemas pelo SENAC-RS.
-- 🌱 Aprendendo algumas linguagens como JavaScript, Python, PHP, HTML e CSS.
+- 🌱 Aprendendo algumas linguagens como JavaScript, Python e PHP.
 - 😄 Pronouns: ele/dele.
 - ⚡ Fun fact: Participei da primeira turma da Warren Tech Academy (https://warren.com.br/magazine/warren-tech-academy/).
