@@ -1,5 +1,3 @@
-### Oi! Eu sou o Luam 👋
-
 <div align="center">
   <a href="https://github.com/ahrionn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahrionn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -27,7 +25,8 @@
  
 </div>
 
-- 🔭 Atualmente sou estudante do 4o semestre de Análise e Desenvolvimento de Sistemas pelo SENAC-RS.
-- 🌱 Aprendendo algumas linguagens como Typescript, JavaScript, Python e PHP.
-- 😄 Pronouns: ele/dele.
-- ⚡ Fun fact: Participei da primeira turma da Warren Tech Academy (https://warren.com.br/magazine/warren-tech-academy/).
+- 🔭 Análise e Desenvolvimento de Sistemas (SENAC-RS) 5o Semestre/6.
+- 🌱 Dia-a-dia: Angular.CLI, ASP.NET & SAP HANA.
+- 🌱 Extras: Python, PHP, MySQL.
+- ⚡ Warren Tech Academy 2023 (https://warren.com.br/magazine/warren-tech-academy/).
+- Full-Stack Jr @ DWU IT Solutions.
