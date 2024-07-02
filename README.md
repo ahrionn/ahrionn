@@ -25,7 +25,7 @@
  
 </div>
 
-- 🔭 Análise e Desenvolvimento de Sistemas (SENAC-RS) 5o Semestre/6.
+- 🔭 Análise e Desenvolvimento de Sistemas (SENAC-RS) 3o Semestre/6.
 - 🌱 Dia-a-dia: Angular.CLI, ASP.NET & SAP HANA.
 - 🌱 Extras: Python, PHP, MySQL.
 - ⚡ Warren Tech Academy 2023 (https://warren.com.br/magazine/warren-tech-academy/).
