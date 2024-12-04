@@ -25,8 +25,8 @@
  
 </div>
 
-- 🔭 Análise e Desenvolvimento de Sistemas (SENAC-RS) 3o Semestre/6.
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas (UniSENAC-RS).
 - 🌱 Dia-a-dia: Angular.CLI, ASP.NET & SAP HANA.
-- 🌱 Extras: Python, PHP, MySQL.
+- 🌱 Extras: Cypress, Python, PHP, MySQL.
 - ⚡ Warren Tech Academy 2023 (https://warren.com.br/magazine/warren-tech-academy/).
-- Full-Stack Jr @ DWU IT Solutions.
+- Full-Stack Jr || Q.A. @ DWU IT Solutions.
