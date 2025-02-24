@@ -25,8 +25,8 @@
  
 </div>
 
-- 🔭 Formado em Análise e Desenvolvimento de Sistemas (UniSENAC-RS).
-- 🌱 Dia-a-dia: Angular.CLI, ASP.NET & SAP HANA.
+- 🔭 Systems' Analysis & Development Bachelor's Degree (UniSENAC-RS).
+- 🌱 Day-to-day: Angular.CLI, ASP.NET & SAP HANA.
 - 🌱 Extras: Cypress, Python, PHP, MySQL.
-- ⚡ Warren Tech Academy 2023 (https://warren.com.br/magazine/warren-tech-academy/).
-- Full-Stack Jr || Q.A. @ DWU IT Solutions.
+- ⚡ Warren Tech Academy 2023 Class (https://warren.com.br/magazine/warren-tech-academy/).
+- Midlle Full-Stack & Q.A. @ DWU IT Solutions.
