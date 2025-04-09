@@ -25,8 +25,8 @@
  
 </div>
 
-- 🔭 Systems' Analysis & Development Bachelor's Degree (UniSENAC-RS).
-- 🌱 Day-to-day: Angular.CLI, ASP.NET & SAP HANA.
-- 🌱 Extras: Cypress, Python, PHP, MySQL.
+- 🔭 Systems' Analysis & Development - Bachelor's Degree (UniSENAC-RS).
+- 🌱 Day-to-day: Angular.CLI, .NET Framework, SAP Hana & Cypress.
+- 🌱 Extras: Python, PHP, MySQL.
 - ⚡ Warren Tech Academy 2023 Class (https://warren.com.br/magazine/warren-tech-academy/).
-- Midlle Full-Stack & Q.A. @ DWU IT Solutions.
+- Middle Full-Stack & Q.A. @ DWU IT Solutions.
