@@ -25,8 +25,9 @@
  
 </div>
 
-- 🔭 Systems' Analysis & Development - Bachelor's Degree (UniSENAC-RS).
-- 🌱 Day-to-day: Angular.CLI, .NET Framework, SAP Hana & Cypress.
-- 🌱 Extras: Python, PHP, MySQL.
-- ⚡ Warren Tech Academy 2023 Class (https://warren.com.br/magazine/warren-tech-academy/).
-- Middle Full-Stack & Q.A. @ DWU IT Solutions.
+- 🔭 Applied Artificial Intelligence - Postgraduate Degree (Unisinos)
+- 🌱 Systems' Analysis & Development - Bachelor's Degree (UniSENAC-RS)
+- 🔭 Day-to-day: C++
+- 🌱 Extras: Angular.CLI, C# (.NET Framework & Windows Forms), SAP Hana, Cypress, Python, PHP, MySQL
+- ⚡ Warren Tech Academy 2023 Class (https://warren.com.br/magazine/warren-tech-academy/)
+- Software Developer @ Pleno KW
