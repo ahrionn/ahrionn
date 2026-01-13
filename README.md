@@ -29,5 +29,5 @@
 - 🌱 Systems' Analysis & Development - Bachelor's Degree (UniSENAC-RS)
 - 🔭 Day-to-day: C++
 - 🌱 Extras: Angular.CLI, C# (.NET Framework & Windows Forms), SAP Hana, Cypress, Python, PHP, MySQL
-- ⚡ Warren Tech Academy 2023 Class (https://warren.com.br/magazine/warren-tech-academy/)
+- ⚡ Warren Tech Academy 2022 Class (https://warren.com.br/magazine/warren-tech-academy/)
 - Software Developer @ Pleno KW
